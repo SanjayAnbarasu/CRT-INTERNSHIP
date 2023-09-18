@@ -1,7 +1,7 @@
 # CRT-INTERNSHIP
-#GitHub README
+
 developed by sanjay A
-linkedin sanjayAnbarasu
+ follow me on linkedin @sanjayAnbarasu
 
 Music Player App
 This is a web music player app created using HTML, CSS, and JavaScript. It allows users to play and manage their favorite songs. The app also includes a feature to add new songs to the playlist.
